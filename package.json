@@ -3,7 +3,8 @@
   "displayName": "Snippy! for Vue",
   "description": "The best helpful snippets for VSCode Vue Development: Snippy! for Vue.",
   "version": "1.0.0",
-  "icon": "https://github.com/klashdevelopment/snippy4vue/blob/main/Exported.png?raw=true",
+  "icon": "Exported.png",
+  "publisher": "gavingogaming",
   "engines": {
     "vscode": "^1.74.0"
   },
