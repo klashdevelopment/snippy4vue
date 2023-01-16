@@ -1,0 +1,25 @@
+{
+  "name": "snippy-vue",
+  "displayName": "Snippy! for Vue",
+  "description": "The best helpful snippets for VSCode Vue Development: Snippy! for Vue.",
+  "version": "1.0.0",
+  "icon": "https://github.com/klashdevelopment/snippy4vue/blob/main/Exported.png?raw=true",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/klashdevelopment/snippy4vue"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/javascript.code-snippets"
+      }
+    ]
+  }
+}
